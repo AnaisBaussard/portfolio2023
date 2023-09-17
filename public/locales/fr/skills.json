@@ -1,0 +1,47 @@
+{
+  "aboutMe": {
+    "description": "🎨 En plus d’être développeuse, je suis aussi <strong>artiste en herbe</strong> ! Après m’être intéressée à la photomanipulation et à l’infographie depuis une dizaine d’années, je me lance maintenant dans l’aventure du <strong>dessin numérique</strong>.<br/><br/>⚔️ Comme beaucoup d'autres, j’ai grandi en jouant aux jeux vidéo. Mes jeux préférés sont <strong>les RPG</strong> classiques comme modernes. Quelques titres que j’affectionne particulièrement : Final Fantasy XIV, Final Fantasy VI, Earthbound et World of Warcraft.",
+    "title": "En dehors de mon métier"
+  },
+  "skillsCategories": {
+    "languages": "Langues parlées",
+    "skills": "Compétences",
+    "softwares": "Logiciels",
+    "tools": "Méthodologies & Outils"
+  },
+  "skillsList": {
+    "adobeMajor": "Adobe <strong>Photoshop</strong>, <strong>Illustrator</strong>",
+    "adobeMinor": "Adobe <strong>InDesign</strong>",
+    "agile": "<strong>Agile / Scrum</strong>",
+    "animations": "<strong>Animations CSS/SVG</strong> (React Spring, Lottie)",
+    "css3": "<strong>CSS3</strong> (Tailwind, Sass, Less)",
+    "english": "<strong>Anglais</strong> (C1)",
+    "french": "<strong>Français</strong> (Langue maternelle)",
+    "git": "<strong>Git</strong>",
+    "graphql": "<strong>GraphQL</strong>",
+    "html5": "<strong>HTML5</strong>",
+    "javascript": "<strong>Javascript</strong> (ES2023, AJAX)",
+    "mfe": "<strong>Lerna</strong> (Micro-frontends)",
+    "nodejs": "<strong>Node.js</strong> (Express.js, Fastify)",
+    "office": "Office <strong>Word</strong>, <strong>Excel</strong>, <strong>PowerPoint</strong>",
+    "php": "<strong>PHP</strong> (Symfony)",
+    "react": "<strong>React.js</strong> (Next.js, Redux, React Query, Styled Components)",
+    "ruby": "<strong>Ruby</strong>",
+    "testing": "<strong>Tests Unitaires & End-to-End</strong> (Jest, Testing Library, Cypress)",
+    "typescript": "<strong>Typescript</strong>",
+    "uiux": "<strong>UI / UX</strong>",
+    "vue": "<strong>Vue.js</strong> (Nuxt.js)",
+    "webpack": "Configuration <strong>Webpack</strong>"
+  },
+  "skillsShort": {
+    "cypress": "<strong>Cypress</strong>",
+    "javascript": "<strong>Javascript</strong>",
+    "jest": "<strong>Jest</strong>",
+    "php": "<strong>PHP</strong>",
+    "postgresql": "<strong>PostgreSQL</strong>",
+    "react": "<strong>React.js</strong>",
+    "ruby": "<strong>Ruby</strong>",
+    "typescript": "<strong>Typescript</strong>"
+  },
+  "title": "Découvrez mes <0>compétences</0> en détail et quelques <1>fun facts</1> !"
+}

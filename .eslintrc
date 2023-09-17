@@ -1,0 +1,37 @@
+{
+  "root": true,
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "ignorePatterns": ["node_modules/*", ".next/*", ".out/*", "!.prettierrc.js"],
+  "extends": ["eslint:recommended"],
+  "overrides": [
+    {
+      "files": ["**/*.ts", "**/*.tsx"],
+      "parser": "@typescript-eslint/parser",
+      "settings": { "react": { "version": "detect" } },
+      "env": {
+        "browser": true,
+        "node": true,
+        "es6": true
+      },
+      "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:jest-dom/recommended",
+        "plugin:jsx-a11y/recommended",
+        "plugin:prettier/recommended",
+        "plugin:react-hooks/recommended",
+        "plugin:react/recommended"
+      ],
+      "rules": {
+        "@typescript-eslint/explicit-module-boundary-types": "off",
+        "jsx-a11y/anchor-is-valid": "off", // This rule is not compatible with Next.js's <Link /> components
+        "prettier/prettier": ["error", {}, { "usePrettierrc": true }], // Includes .prettierrc.js rules
+        "react/prop-types": "off", // We will use TypeScript's types for component props instead
+        "react/react-in-jsx-scope": "off" // No need to import React when using Next.js
+      }
+    }
+  ]
+}

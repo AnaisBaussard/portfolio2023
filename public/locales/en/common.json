@@ -1,0 +1,9 @@
+{
+  "mainTitle": "Anaïs Baussard • Frontend Developer",
+  "components": {
+    "contactLinks": {
+      "linkedIn": "My LinkedIn account",
+      "resume": "My resume (PDF format)"
+    }
+  }
+}

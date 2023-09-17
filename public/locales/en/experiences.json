@@ -1,0 +1,28 @@
+{
+  "website": {
+    "descriptionSmall": "<0>This portfolio</0> - Design and development - <1>GitHub</1>",
+    "description": "<strong>Design and development</strong> (2023)<br/><br/>Integration of a Figma wireframe using <strong>React</strong> and <strong>Typescript</strong>. I also gave <strong>Next.js</strong> a try to facilitate project creation.<br/><br/>This is a personal project, entirely designed and coded by myself.<br/><br/>You can check the source code on my <0>GitHub</0> and the wireframe on <1>Figma</1>.",
+    "stackDescription": {
+      "react": "(Next.js, Styled components)"
+    },
+    "title": "This portfolio"
+  },
+  "regate": {
+    "descriptionSmall": "<0>Regate</0> - Frontend Development",
+    "description": "<strong>Frontend Developer</strong> (2021-2023)<br/><br/>Creation and maintenance of a Finance Automation <strong>SaaS software</strong>, whose main features are to manage and record invoices, expenses, pay and be paid.<br/><br/>Creation of features with <strong>React</strong> and <strong>Typescript</strong>, in direct collaboration with a product manager and a team of 16 developers, as part of a fast-growing start-up.<br/><br/>Constant improvement of the performance and maintainability of the features using <strong>unit tests</strong> (Jest) and <strong>end-to-end tests</strong> (Cypress).",
+    "stackDescription": {
+      "react": "(Styled components, React Query, React Tables)",
+      "ruby": "(Rails)"
+    },
+    "title": "Regate"
+  },
+  "mailjet": {
+    "descriptionSmall": "<0>Mailjet via Attineos</0> - Frontend Development",
+    "description": "<strong>Frontend Developer</strong> (2018-2021)<br/><br/>Creation and maintenance of web pages and features written in <strong>React</strong> under an Agile process, within a team of 12 developers.<br/><br/>Development and maintenance of a React <strong>component library</strong> using <strong>Styled-components</strong>.<br/><br/>Constant improvement of the performance and maintainability of the features using <strong>Jest unit tests</strong>.<br/><br/>Creation and management of a <strong>micro-frontends</strong> ecosystem using Lerna monorepos, in order to account for the needs of two different platforms.",
+    "stackDescription": {
+      "react": "(Styled components, Redux)",
+      "php": "(Zend, Twig)"
+    },
+    "title": "Mailjet via Attineos"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "mainTitle": "Anaïs Baussard • Développeuse front-end",
+  "components": {
+    "contactLinks": {
+      "linkedIn": "Mon compte LinkedIn",
+      "resume": "Mon CV en format PDF"
+    }
+  }
+}

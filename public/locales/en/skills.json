@@ -1,0 +1,47 @@
+{
+  "aboutMe": {
+    "description": "🎨 Besides being a developer, I am also a <strong>fledgling artist</strong>! After tinkering with photomanipulation and infographics for about ten years, I am now learning <strong>digital painting</strong>.<br/><br/>⚔️ Like many others, I grew up playing video games. My favorite games are <strong>RPGs</strong>, both classic and modern. Some titles that I particularly like: Final Fantasy XIV, Final Fantasy VI, Earthbound and World of Warcraft.",
+    "title": "More about me"
+  },
+  "skillsCategories": {
+    "languages": "Languages",
+    "skills": "Skills",
+    "softwares": "Softwares",
+    "tools": "Frameworks & Tools"
+  },
+  "skillsList": {
+    "adobeMajor": "Adobe <strong>Photoshop</strong>, <strong>Illustrator</strong>",
+    "adobeMinor": "Adobe <strong>InDesign</strong>",
+    "agile": "<strong>Agile / Scrum</strong>",
+    "animations": "<strong>CSS/SVG animations</strong> (React Spring, Lottie)",
+    "css3": "<strong>CSS3</strong> (Tailwind, Sass, Less)",
+    "english": "<strong>English</strong> (C1)",
+    "french": "<strong>French</strong> (Native language)",
+    "git": "<strong>Git</strong>",
+    "graphql": "<strong>GraphQL</strong>",
+    "html5": "<strong>HTML5</strong>",
+    "javascript": "<strong>Javascript</strong> (ES2023, AJAX)",
+    "mfe": "<strong>Lerna</strong> (Micro-frontends)",
+    "nodejs": "<strong>Node.js</strong> (Express.js, Fastify)",
+    "office": "Office <strong>Word</strong>, <strong>Excel</strong>, <strong>PowerPoint</strong>",
+    "php": "<strong>PHP</strong> (Symfony)",
+    "react": "<strong>React.js</strong> (Next.js, Redux, React Query, Styled Components)",
+    "ruby": "<strong>Ruby</strong>",
+    "testing": "<strong>Unit & End-to-End Testing</strong> (Jest, Testing Library, Cypress)",
+    "typescript": "<strong>Typescript</strong>",
+    "uiux": "<strong>UI / UX</strong>",
+    "vue": "<strong>Vue.js</strong> (Nuxt.js)",
+    "webpack": "<strong>Webpack</strong> configuration"
+  },
+  "skillsShort": {
+    "cypress": "<strong>Cypress</strong>",
+    "javascript": "<strong>Javascript</strong>",
+    "jest": "<strong>Jest</strong>",
+    "php": "<strong>PHP</strong>",
+    "postgresql": "<strong>PostgreSQL</strong>",
+    "react": "<strong>React</strong>",
+    "ruby": "<strong>Ruby</strong>",
+    "typescript": "<strong>Typescript</strong>"
+  },
+  "title": "Find more about my <0>skills</0>, along with some <1>fun facts</1>!"
+}

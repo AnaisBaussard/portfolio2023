@@ -1,0 +1,14 @@
+{
+  "title": "Discover my portfolio; <0>contributions</0> and <1>personal projects</1>.",
+  "filterBy": {
+    "label": "Filter by",
+    "personal": "Personal",
+    "professional": "Professional"
+  },
+  "sortBy": {
+    "label": "Sort by",
+    "mostRecent": "Newest",
+    "name": "Alphabetical order",
+    "oldest": "Oldest"
+  }
+}

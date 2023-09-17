@@ -1,0 +1,10 @@
+{
+  "description": "If you want to contact me, you can <strong>send me an email</strong> to the aforementioned address, or send me a <strong>message on Linkedin</strong>.<br/><br/>You can also view and download my resume in PDF format.",
+  "form": {
+    "email": "Your email address",
+    "message": "Message",
+    "name": "Your firstname & lastname",
+    "send": "Send message"
+  },
+  "title": "Send me a message and <0>let's talk</0> about <1>your project</1>!"
+}

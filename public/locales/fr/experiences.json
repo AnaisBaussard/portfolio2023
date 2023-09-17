@@ -1,0 +1,28 @@
+{
+  "website": {
+    "descriptionSmall": "<0>Ce portfolio</0> - Design et développement - <1>GitHub</1>",
+    "description": "<strong>Design et développement</strong> (2023)<br/><br/>Intégration en <strong>React</strong> et <strong>Typescript</strong> d’une maquette créée sur Figma. J’ai aussi pu y tester <strong>Next.js</strong> pour faciliter la création de projet.<br/><br/>Il s’agit d’un projet personnel, entièrement designé et codé par mes soins.<br/><br/>Vous pouvez consulter le code source sur mon <0>GitHub</0> ainsi que la maquette sur <1>Figma</1>.",
+    "stackDescription": {
+      "react": "(Next.js, Styled components)"
+    },
+    "title": "Ce portfolio"
+  },
+  "regate": {
+    "descriptionSmall": "<0>Regate</0> - Développement front-end",
+    "description": "<strong>Développeuse front-end</strong> (2021-2023)<br/><br/>Création et maintien d'un <strong>logiciel SaaS</strong> de Finance Automation dont les fonctionnalités principales sont de gérer et comptabiliser des factures, des notes de frais, payer et être payé.<br/><br/>Création de fonctionnalités avec <strong>React</strong> et <strong>Typescript</strong>, en collaboration directe avec un product manager et une équipe de 16 développeurs, dans le cadre d'une start-up en pleine croissance.<br/><br/>Entretien et amélioration constante de la performance et de la maintenabilité des fonctionnalités à l'aide de <strong>tests unitaires</strong> (Jest) et de <strong>tests end-to-end</strong> (Cypress).",
+    "stackDescription": {
+      "react": "(Styled components, React Query, React Tables)",
+      "ruby": "(Rails)"
+    },
+    "title": "Regate"
+  },
+  "mailjet": {
+    "descriptionSmall": "<0>Mailjet via Attineos</0> - Développement front-end",
+    "description": "<strong>Développeuse front-end</strong> (2018-2021)<br/><br/>Création et maintien de pages web et fonctionnalités en <strong>React</strong> tout en suivant un process Agile, au sein d'une équipe de 12 développeurs.<br/><br/>Développement et entretien d’une <strong>bibliothèque de composants</strong> en React avec <strong>Styled-components</strong>.<br/><br/>Entretien et amélioration constante de la performance et de la maintenabilité des fonctionnalités à l'aide de <strong>tests unitaires Jest</strong>.<br/><br/>Création et gestion d'un écosystème de <strong>micro-frontends</strong> à l'aide de monorepos Lerna, afin de s'adapter aux besoins de deux plateformes différentes.",
+    "stackDescription": {
+      "react": "(Styled components, Redux)",
+      "php": "(Zend, Twig)"
+    },
+    "title": "Mailjet via Attineos"
+  }
+}

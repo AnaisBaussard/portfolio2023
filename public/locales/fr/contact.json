@@ -1,0 +1,10 @@
+{
+  "description": "Pour me contacter, vous pouvez <strong>m'envoyer un email</strong> à l'adresse ci-dessus, ou bien m'envoyer un <strong>message sur Linkedin</strong>.<br/><br/>Mon CV est également à votre disposition, téléchargeable en PDF.",
+  "form": {
+    "email": "Adresse email",
+    "message": "Message",
+    "name": "Prénom et nom",
+    "send": "Envoyer"
+  },
+  "title": "Contactez-moi et <0>travaillons ensemble</0> pour réaliser <1>votre projet</1> !"
+}

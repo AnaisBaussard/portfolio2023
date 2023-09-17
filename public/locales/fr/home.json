@@ -1,0 +1,13 @@
+{
+  "title": "👋 <0>Bonjour</0> ! Je suis <1>Anaïs</1>, développeuse front-end.",
+  "subtitle": "Je réalise et maintiens des <0>applications</0> et <1>sites web</1> de qualité.<br/><br/><br/>Découvrez mon portfolio !",
+  "buttons": {
+    "contact": "Contactez-moi",
+    "skills": "Mes compétences"
+  },
+  "webDev": {
+    "title": "Développement web",
+    "description": "Forte de <strong>cinq ans d'expérience professionnelle</strong> soutenus par quelques projets personnels, je me spécialise en technologies front-end telles que <strong>React</strong>, <strong>Vue.js</strong>, <strong>Typescript</strong> et <strong>Javascript</strong>.<br/><br/>J’ai également des connaissances solides en <strong>CSS3</strong>, en <strong>responsive</strong> et bien d’autres !<br/><br/>Pour plus d’informations, <0>consultez mon CV</0> !",
+    "projects": "Découvrez les derniers projets auxquels j'ai contribué ;"
+  }
+}

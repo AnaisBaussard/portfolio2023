@@ -1,0 +1,6 @@
+export { default as Emphasis } from './Emphasis'
+export { default as MenuText } from './MenuText'
+export { default as ResponsiveTextContainer } from './ResponsiveTextContainer'
+export { default as SubTitle } from './SubTitle'
+export { default as Text } from './Text'
+export { default as Title } from './Title'

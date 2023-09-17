@@ -1,0 +1,13 @@
+{
+  "title": "👋 <0>Hello</0> ! I am <1>Anaïs</1>, a front-end developer.",
+  "subtitle": "I create and maintain high quality <0>applications</0> and <1>websites</1>.<br/><br/><br/>Discover my portfolio!",
+  "buttons": {
+    "contact": "Contact me",
+    "skills": "My skills"
+  },
+  "webDev": {
+    "title": "Web development",
+    "description": "Over the course of more than <strong>5 years of professional experience</strong> backed by personal projects, I became a front-end specialist, mastering technologies such as <strong>React</strong>, <strong>Typescript</strong>, <strong>Vue.js</strong> and <strong>Javascript</strong>.<br/><br/>I am also familiar with <strong>CSS3</strong>, <strong>responsive design</strong>, and many others.<br/><br/>To know more about me, <0>take a look at my resume</0>!",
+    "projects": "Check out the projects I contributed to ;"
+  }
+}
